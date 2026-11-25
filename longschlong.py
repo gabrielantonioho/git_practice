@@ -17,7 +17,7 @@ class Circle():
         return self._radius
 
 def main():
-    really_cool_circle = Circle(67)
+    really_cool_circle = Circle(69)
     print(f"My really cool circle has an area of {really_cool_circle.circle_area()} and perimeter {really_cool_circle.circle_perimeter()}")
 
 if __name__ == "__main__":
